@@ -1,14 +1,4 @@
-import {
-  Button,
-  StyleSheet,
-  Text,
-  View,
-  Alert,
-  Image,
-  TouchableWithoutFeedback,
-  TouchableHighlight,
-  FlatList,
-} from "react-native";
+import { StyleSheet, View, FlatList } from "react-native";
 import Header from "./components/Header";
 import ListItem from "./components/ListItem";
 import Form from "./components/Form";

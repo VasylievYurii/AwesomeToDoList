@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { StyleSheet, Text, View, TextInput, Button } from "react-native";
+import { StyleSheet, View, TextInput, Button } from "react-native";
 
 export default function Form({ addHandler }) {
   const [text, setText] = useState("");
